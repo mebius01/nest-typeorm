@@ -19,21 +19,11 @@ npm run dc:up
 ```bash
 npm run dc:down
 ```
-## Prisma
+## TypeORM
 
 **Migrate**
 ```bash
-npm run ps:migrate
-```
 
-**Generate**
-```bash
-npm run ps:generate
-```
-
-**Seed data up**
-```bash
-npm run ps:seed
 ```
 
 ## Running
